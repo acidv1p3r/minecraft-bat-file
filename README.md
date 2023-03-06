@@ -1,7 +1,5 @@
-# minecraft-bat-file
-an optimized minecraft server start bat file created chat gpt helped with the java flags and some design choices feel free to fork and make this your own 
-also feel free let me know if there is any other things that ethier I or chatgpt missed to optimize this email me contact@acidv1p3r.com
+This bat file is a pre-optimized script that you can use to start hosting your Minecraft server with improved performance. It's very easy to use - just drag and drop the file into your Minecraft server folder and run it.
 
-1. drag and drop this in your minecraft server folder and run it to start hosting your minecraft server
-2. rename your server.jar example this could be minecraft_server_Version.jar and or paper-1.19.3-442.jar to server.jar or rename -jar " CHANGEME.jar " -nogui in quotes at the end of bat files logest line to the name of your server.jar
-CHANGEME= meaning the name of your server.jar
+If you have a different name for your server file, you'll need to rename it to "server.jar" or update the script with your new name. Once you're ready to start your server, simply run the script and it will allocate the appropriate amount of RAM and start the server with optimal Java flags.
+
+If you encounter any issues or have suggestions for further improvements, you can reach out to the creator at contact@acidv1p3r.com.
