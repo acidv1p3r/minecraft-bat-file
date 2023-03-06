@@ -2,8 +2,8 @@
 [discord-link]: https://discord.gg/RgZGCqKxAb
 
 <div align="center">
-#minecraft-bat-file
 
+#minecraft-bat-file
 This bat file is a pre-optimized script that you can use to start hosting your Minecraft server with improved performance.
 
 [![Discord Server][discord-badge]][discord-link]  
